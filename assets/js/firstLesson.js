@@ -41,6 +41,7 @@
 // let userNumberA = prompt ( "Input a number: " );
 // let userNumberB = prompt ( "Input b number: " );
 // console.log((0-Number(userNumberB))/Number(userNumberA));
+/*
 
 //7. Запросите у пользователя текущее время (часы и минуты) и выведите, сколько часов и минут осталось до следующего дня.
 let userHours = prompt ( "what time is it(hours): ", '0-24' );
@@ -57,6 +58,7 @@ if(timeMinutesResult > 59)
 }
 //console.log(timeMinutesResult);
 console.log(timeHorsResult + ' hours and ' + timeMinutesResult + ' minutes left until tomorrow');
+*/
 
 //8. Запросите у пользователя трехзначное число и выведите вторую цифру этого числа. Для решения задачи используйте оператор % (остаток от деления).
 
